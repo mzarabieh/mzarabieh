@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Marral Zarrabieh</h1>
+<h1 align="center">Hi 👋 I'm Maral Zarabieh</h1>
 
 # 💫 About Me:
 I'm a **Computer Engineering student at York University**, passionate about **AI, robotics, and full-stack development**. I enjoy solving engineering challenges at the intersection of **software, automation, and cloud computing**.
