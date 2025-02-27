@@ -16,7 +16,7 @@ I'm a **Computer Engineering student at York University**, passionate about **AI
 
 - 📱 I'm **developing a financial literacy app for RBC On Campus**.
 - 🎧 I'm **learning to DJ** and experimenting with different music styles.
-- 💃 I'm a **certified Zumba instructor**—dancing keeps me energized!  
+- 💃 I'm a **certified Zumba instructor** dancing keeps me energized!  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marral-zarrabieh/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maralzarabieh@gmail.com)
