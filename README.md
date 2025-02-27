@@ -1,5 +1,23 @@
 # 💫 About Me:
-🛰 I’m currently working on<br>Building AI-driven applications, web development, and open-source contributions.<br><br>👥 I’m looking to collaborate on<br>Machine learning projects, open-source development, and cloud-based microservices.<br><br>🤝 I’m looking for help with<br>Optimizing neural networks and improving cloud infrastructure efficiency.<br><br>🌱 I’m currently learning<br>Advanced robotics, DevOps practices, and full-stack development.<br><br>💬 Ask me about<br>AI/ML, cloud computing, backend development, and Linux kernel contributions.<br><br>⚡ Fun fact<br>I contributed to an open-source Logitech device manager and helped port it to macOS and Windows!<br>
+
+🛰 I’m currently working on<br>
+Developing the **RBC On Campus - Financial Literacy Hub**, an interactive platform that helps newcomers enhance their financial literacy through **Duolingo-style learning**, a **banking simulator**, and **financial tools**.<br><br>
+
+👥 I’m looking to collaborate on<br>
+AI-driven applications, robotics projects, and financial technology innovations.<br><br>
+
+🤝 I’m looking for help with<br>
+Optimizing machine learning models and improving cloud infrastructure efficiency.<br><br>
+
+🌱 I’m currently learning<br>
+Advanced robotics, ROS2, and embedded systems development.<br><br>
+
+💬 Ask me about<br>
+AI/ML, cloud computing, backend development, and open-source contributions.<br><br>
+
+⚡ Fun fact<br>
+I’m **developing a financial literacy app for RBC On Campus**, **learning to DJ**, and I’m also a **certified Zumba instructor**! 🎶💃<br>
+
 
 
 ## 🌐 Socials:
