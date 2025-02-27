@@ -3,17 +3,10 @@
 🛰 I’m currently working on<br>
 Developing the **RBC On Campus - Financial Literacy Hub**, an interactive platform that helps newcomers enhance their financial literacy through **Duolingo-style learning**, a **banking simulator**, and **financial tools**.<br><br>
 
-👥 I’m looking to collaborate on<br>
-AI-driven applications, robotics projects, and financial technology innovations.<br><br>
-
-🤝 I’m looking for help with<br>
-Optimizing machine learning models and improving cloud infrastructure efficiency.<br><br>
 
 🌱 I’m currently learning<br>
 Advanced robotics, ROS2, and embedded systems development.<br><br>
 
-💬 Ask me about<br>
-AI/ML, cloud computing, backend development, and open-source contributions.<br><br>
 
 ⚡ Fun fact<br>
 I’m **developing a financial literacy app for RBC On Campus**, **learning to DJ**, and I’m also a **certified Zumba instructor**! 🎶💃<br>
